@@ -1,0 +1,19 @@
+{
+  "bugtracking": [
+    {
+      "issue_name": "anoter test a",
+      "issue_message": "this is a test to check the server ",
+      "id": 2
+    },
+    {
+      "issue_name": "a bug fix ",
+      "issue_message": "can you add a reflex ",
+      "id": 3
+    },
+    {
+      "issue_name": "iterate ",
+      "issue_message": "another issue to add ",
+      "id": 4
+    }
+  ]
+}
